@@ -36,6 +36,9 @@ Para visualizar o projeto localmente:
 ## Status do Projeto
 Este projeto está finalizado.
 
+## GitHub Pages
+https://nandamerino.github.io/mecanica/
+
 ## Recursos
 - [Documentação do HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Documentação do CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
